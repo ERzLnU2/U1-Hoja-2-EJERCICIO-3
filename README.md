@@ -1,5 +1,8 @@
 # EJERCICIO-3-Hoja-2
-String y Doubles para programa JAVA con Entrada showInputDialog (precios vivienda)
+String y Doubles para programa JAVA con Entrada showInputDialog (precios vivienda €/Pts)
+
+![ EJERCICIO-3-Hoja-2](https://repository-images.githubusercontent.com/541266975/a5d1201b-19ef-431c-ba61-15c02504f0cf)
+
 
 ```java
 /**
@@ -14,4 +17,4 @@ String y Doubles para programa JAVA con Entrada showInputDialog (precios viviend
  */
 ```
 
-![alt text]()
+![ EJERCICIO-3 Hoja-2](https://repository-images.githubusercontent.com/541266975/a5d36dac-1547-4ef4-a625-e868ad43f3b4)
